@@ -1,0 +1,16 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - gpxpy
+  - pandas
+  - matplotlib
+  - geopy
+  - smopy
+  - mplleaflet
+  - pillow
+  - tqdm
+  - FFmpeg
+  - trackanimation
