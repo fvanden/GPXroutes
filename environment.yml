@@ -8,9 +8,11 @@ dependencies:
   - pandas
   - matplotlib
   - geopy
-  - smopy
   - mplleaflet
   - pillow
   - tqdm
   - FFmpeg
-  - trackanimation
+  - pip
+  - pip:
+    - trackanimation
+    - smopy
